@@ -413,14 +413,12 @@ The WildJailbreak dataset contains examples of harmful prompts for evaluation pu
 ## Contact
 
 For questions, issues, or collaboration inquiries:
-- **GitHub Issues**: [Open an issue](https://github.com/[ANONYMIZED]/promoral-bench/issues)
-- **Email**: [ANONYMIZED for submission]
+- **Email**: rohanthomas334@gmail.com
 
 ## Acknowledgments
 
 We thank:
 - The creators of ETHICS (Hendrycks et al.), Scruples (Lourie et al.), and WildJailbreak (Wei et al.) for making their datasets publicly available
 - Our human annotators for their careful work on ETHICS-Contrast validation
-- [Additional acknowledgments to be added after de-anonymization]
 
 ---
